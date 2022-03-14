@@ -5,7 +5,7 @@
 2. 从github上复制代码
 
   ```
-  git clone git@github.com:waxcloud2021/discord.git
+  git clone git@github.com:fxhash001/cosmos_voting.git
   ```
 
 3. 获得源码后进入源码所在路经，安装运行脚本需要的依赖包
